@@ -1,0 +1,32 @@
+#Navbar {
+  background-image: linear-gradient(to bottom, #4d4dff, #6666ff);
+  padding: 11px;
+}
+
+#Homepage {
+  background-color: White;
+  background-image: url("image1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding: 195px;
+}
+
+body {
+  font-family: cursive;
+  color: black;
+  background-color: #e6e6e6;
+}
+
+#Services {
+  background-image: linear-gradient(to bottom, #4d4dff, #3333ff);
+}
+
+#D {
+  padding: 69 px;
+}
+
+#footer {
+  padding: 60px;
+  background-image: linear-gradient(to bottom, #1a1aff, #4d4dff);
+  color: white;
+}
